@@ -1,0 +1,14 @@
+C:\Users\Artur\source\repos\loginBanco\loginBanco\bin\Debug\loginBanco.exe.config
+C:\Users\Artur\source\repos\loginBanco\loginBanco\bin\Debug\loginBanco.exe
+C:\Users\Artur\source\repos\loginBanco\loginBanco\bin\Debug\loginBanco.pdb
+C:\Users\Artur\source\repos\loginBanco\loginBanco\obj\Debug\loginBanco.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\loginBanco\loginBanco\obj\Debug\loginBanco.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\loginBanco\loginBanco\obj\Debug\loginBanco.exe
+C:\Users\Artur\source\repos\loginBanco\loginBanco\obj\Debug\loginBanco.pdb
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\bin\Debug\loginBanco.exe.config
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\bin\Debug\loginBanco.exe
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\bin\Debug\loginBanco.pdb
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\obj\Debug\loginBanco.csproj.AssemblyReference.cache
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\obj\Debug\loginBanco.csproj.CoreCompileInputs.cache
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\obj\Debug\loginBanco.exe
+C:\Users\Olivinha\Downloads\loginBanco\loginBanco\loginBanco\obj\Debug\loginBanco.pdb
